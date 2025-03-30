@@ -8,6 +8,8 @@ This [release procedure](https://community.sonarsource.com/t/deploying-to-the-ma
 2. Announcing new release at the [Community Forum](https://community.sonarsource.com/c/plugins)
 3. Creating a PR on [sonar-update-center-properties repo](https://github.com/SonarSource/sonar-update-center-properties)
 
+
+
 The 1st part is already automated with build tool plugins such as [sonar-packaging-maven-plugin](https://github.com/SonarSource/sonar-packaging-maven-plugin) and [gradle-sonar-packaging-plugin](https://github.com/iwarapter/gradle-sonar-packaging-plugin). This GitHub Action will automate the 2nd and 3rd steps.
 
 ## Supported Feature
