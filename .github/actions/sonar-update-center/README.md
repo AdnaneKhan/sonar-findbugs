@@ -4,6 +4,7 @@ The GitHub Action for SonarQube plugin authors to automate the last mile in Sona
 
 This [release procedure](https://community.sonarsource.com/t/deploying-to-the-marketplace/35236) contains three steps:
 
+
 1. Publishing the `.jar` file with metadata
 2. Announcing new release at the [Community Forum](https://community.sonarsource.com/c/plugins)
 3. Creating a PR on [sonar-update-center-properties repo](https://github.com/SonarSource/sonar-update-center-properties)
